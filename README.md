@@ -1,1 +1,24 @@
 # power-BI-SALES-ANALYSIS
+*OPEN POWERBI
+# 1-DATA CLEANING
+If you need to clean or transform the data, you can click on Transform Data in Power BI. This will open the Power Query Editor where you can:
+Remove unnecessary columns.
+Handle missing or incorrect data.
+Change data types if needed (e.g., convert date columns to actual date format).
+# 2-DATA VISUALISATION
+# VISUALS INCLUDED
+1-SUM OF SALES,PROFIT,NO.OF GOODS(CARDS)
+2-SLICERS(YEAR)
+3-SALES BY COUNTRY(MAP)
+4-SALES BY PRODUCT &TOP 5 PROFIT PRODUCTS(COLUMN CHARTS)
+5-MONTHWISE SALES TREND(LINE CHART)
+6-UNIT SOLD BY SEGMENT(BAR CHART)
+IN NEXT PAGE,FOR THE NAVIGATION ADD BUTTON,
+7-COUNTRYWISE PROFIT (TABLE)
+8-SALES BY DISCOUNT CHART(PIE CHART)
+# BOOKMARKS
+1-TOTAL SALES BY CATEGORIES
+2-SALES IN 2023
+3-SALES IN 2024
+
+
